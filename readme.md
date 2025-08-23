@@ -13,6 +13,16 @@
 ![page 13](fisher_ru13.jpg)
 ![page 14](fisher_ru14.jpg)
 
+---
+
+![petal-sepal.png](petal-sepal.png)
+![discriminant-f1.png](discriminant-f1.png)
+![discriminant-f2.png](discriminant-f2.png)
+
+https://observablehq.com/d/27597228b2335087
+
+---
+
 https://ru.wikipedia.org/wiki/Ирисы_Фишера
 
 Fisher RU: https://www.overleaf.com/project/68a8955bcaaf5a0902af6279
