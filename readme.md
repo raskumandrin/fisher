@@ -19,7 +19,6 @@ https://www.overleaf.com/project/68a4b8db8d2e7c9b67a2850e
 ![page 11](fisher11.jpg)
 ![page 12](fisher12.jpg)
 ![page 13](fisher13.jpg)
-![page 14](fisher14.jpg)
 
 ---
 
